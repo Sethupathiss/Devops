@@ -1,0 +1,15 @@
+hi this is sethu
+
+
+Git Push
+
+The push term refers to upload local repository content to a remote repository. Pushing is an act of transfer commits from your local repository to a remote repository. Pushing is capable of overwriting changes; caution should be taken when pushing.
+Git Push
+
+Moreover, we can say the push updates the remote refs with local refs. Every time you push into the repository, it is updated with some interesting changes that you made. If we do not specify the location of a repository, then it will push to default location at origin master.
+
+The "git push" command is used to push into the repository. The push command can be considered as a tool to transfer commits between local and remote repositories. The basic syntax is given below:
+
+    $ git push <option> [<Remote URL><branch name><refspec>...]  
+
+Push command supports many additional options. Some options are as follows under push tags.
